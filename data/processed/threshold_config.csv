@@ -1,0 +1,2 @@
+optimal_threshold_f2,optimal_threshold_cost,fn_cost,fp_cost,best_f2_score,best_recall,best_precision,cost_saving
+0.44,0.14,150,5,0.7815333116369891,0.8134526977962414,0.6755073337338245,26375

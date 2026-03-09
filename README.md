@@ -16,3 +16,6 @@ Python, XGBoost, LightGBM, SHAP, Streamlit, Scikit-learn, Pandas
 - Streamlit dashboard for live fraud scoring
 - SHAP explainability
 - Cost-optimized threshold selection
+
+## Live Demo
+[PayGuard Live App](https://fraud-detection-payguard-nyxgmvsuobi4mjp5e25xx4.streamlit.app)
